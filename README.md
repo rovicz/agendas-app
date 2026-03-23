@@ -1,4 +1,4 @@
-# Agenda App - Aplicativo de Notas (Estilo Google Keep)
+# Agenda App - Aplicativo de Notas
 
 Aplicativo Android de criação de notas internas, desenvolvido em Kotlin com Jetpack Compose e Material Design 3.
 
